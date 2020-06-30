@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>Little Huang | 星空</title>
   
-  
+  <subtitle>The world is big and life is short. Live the life the way you want.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://odream.top/"/>
   <updated>2020-06-30T03:20:45.146Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://odream.top/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Jarvis Huang</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/06/30/hello-world/"/>
-    <id>http://yoursite.com/2020/06/30/hello-world/</id>
+    <link href="https://odream.top/2020/06/30/hello-world/"/>
+    <id>https://odream.top/2020/06/30/hello-world/</id>
     <published>2020-06-30T03:20:45.146Z</published>
     <updated>2020-06-30T03:20:45.146Z</updated>
     
