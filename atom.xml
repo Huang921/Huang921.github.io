@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Little Huang | 星空</title>
+  <title>Little Huang</title>
   
   <subtitle>The world is big and life is short. Live the life the way you want.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://odream.top/"/>
+  <link href="odream.top/"/>
   <updated>2020-06-30T03:20:45.146Z</updated>
-  <id>https://odream.top/</id>
+  <id>odream.top/</id>
   
   <author>
     <name>Jarvis Huang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://odream.top/2020/06/30/hello-world/"/>
-    <id>https://odream.top/2020/06/30/hello-world/</id>
+    <link href="odream.top/2020/06/30/hello-world/"/>
+    <id>odream.top/2020/06/30/hello-world/</id>
     <published>2020-06-30T03:20:45.146Z</published>
     <updated>2020-06-30T03:20:45.146Z</updated>
     
