@@ -5,9 +5,9 @@
   <subtitle>The world is big and life is short. Live the life the way you want.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="odream.top/"/>
+  <link href="blog.odream.top/"/>
   <updated>2020-06-30T03:20:45.146Z</updated>
-  <id>odream.top/</id>
+  <id>blog.odream.top/</id>
   
   <author>
     <name>Jarvis Huang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="odream.top/2020/06/30/hello-world/"/>
-    <id>odream.top/2020/06/30/hello-world/</id>
+    <link href="blog.odream.top/2020/06/30/hello-world/"/>
+    <id>blog.odream.top/2020/06/30/hello-world/</id>
     <published>2020-06-30T03:20:45.146Z</published>
     <updated>2020-06-30T03:20:45.146Z</updated>
     
